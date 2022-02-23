@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true relation of a comet or blazing-star, that lately appeared, and was seen by many who are eye-witnesses thereof, in this city of London, on the 28th and 29th of July last with many weighty observations upon the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40582</idno>
+            <idno type="STC">Wing F2314</idno>
+            <idno type="STC">ESTC R16220</idno>
+            <idno type="EEBO-CITATION">11851731</idno>
+            <idno type="OCLC">ocm 11851731</idno>
+            <idno type="VID">49939</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40582)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49939)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 29:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true relation of a comet or blazing-star, that lately appeared, and was seen by many who are eye-witnesses thereof, in this city of London, on the 28th and 29th of July last with many weighty observations upon the same.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Comets --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:49939:1"/>
+            <pb n="1" facs="tcp:49939:1" rendition="simple:additions"/>
+            <head>A full and true RELATION OF A COMET OR Blazing-STAR, That lately appeared, and was ſeen by many who are Eye-witneſſes thereof, in this City of <hi>London,</hi> on the 28th and 29th of <hi>July</hi> laſt; with many weighty Obſervations upon the ſame.</head>
+            <p>IN and upon the 28th and 29th of this laſt inſtant <hi>July,</hi> ap<g ref="char:EOLhyphen"/>peared and begun to be ſeen (in our Horizon) a moſt wonder<g ref="char:EOLhyphen"/>ful and ſtrange Comet, or blazing-Star, of a very great mag<g ref="char:EOLhyphen"/>nitude, and as long to the appearance as a Pike, darting North-wards, very marvellous to behold, for as though the Hea<g ref="char:EOLhyphen"/>vens did open and ſhut, there was made a pretty large breach in the Cloudy Elements, whence ſeemed other branches like fiery ſtreams from the main body of ſuch, the Comet, each darting its point towards the Earth; which is the ſame wonder mentioned in the <hi>Domeſtick Intelligence,</hi> and therein is called a fiery Meteor, of a vaſt magnitude, that ſeemed to compaſs the whole Heavens (only the ſpectators could ſee but part thereof (the Horizon terminating their ſight:) the ſight of which they affirm to be on <hi>Monday</hi> the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>4th of this inſtant <hi>Auguſt,</hi> about two of the Clock in the morning, by a Waterman, with many others in his Boat upon the <hi>Thames.</hi>
+            </p>
+            <p>This prodigeous Meteor, with the late terrible Thunder and Lightning (ſo audible and viſible to moſt people) as proceeding from one and the ſame Cauſe, namely ſin and offence againſt God, provoked thereby to teſtifie his Judgments againſt the ſame, are a ſignal token of ſuch Gods anger or diſpleaſure againſt a People or Nation, with whom by the Sword of his mouth he is come to fight, <hi>i. e.</hi> to proclaim and make open war: The Reaſon of which diſ<g ref="char:EOLhyphen"/>courſe,
+<pb n="2" facs="tcp:49939:2" rendition="simple:additions"/>eſpecially at ſuch a time as this (wherein Atheiſm and Su<g ref="char:EOLhyphen"/>perſtition do ſo abound, that God is made a meer mock of, in the vulgar apprehenſions of a Generation thus threatned with deſtructi<g ref="char:EOLhyphen"/>on) is grounded and founded upon a ſutable occaſion for ſuch a ſub<g ref="char:EOLhyphen"/>ject, namely the late apparition of that terrible, horrible, and pro<g ref="char:EOLhyphen"/>digious Comet over the City of <hi>London,</hi> in and about <hi>Drury-Lane, Lincolns-Inn-Fields,</hi> and the places there adjacent; where appeared this terrible and prodigious New Star unto many who were there gathered together on <hi>Tueſday</hi> and <hi>Wedneſday</hi> nights this <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>8th and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9th of <hi>Auguſt,</hi> ſpectators of the ſame, eſpecially one Mrs. <hi>Sheeres</hi> and her Family living near the <hi>Red Lyon</hi> in <hi>Drury Lane,</hi> who gives the Relation thereof, that it did not continue in their aſpection at thoſe times of its appearance but a very little ſeaſon.</p>
+            <p>But what may be hence ſignified (according to Reaſons in Nature) namely, what may be the Effect or Event thereof, is left to be con<g ref="char:EOLhyphen"/>ſulted and conſidered (upon a more mature deliberation) by men of judgment, into thoſe natural Cauſes and Reaſons of things brought to paſs in this lower world, what (we ſay) may be (on ſuch grounds) the Event and Effect thereof. It being not our work, in this place, to dreſs our Language with Art, as though we had taken or were taking any Obſervation of the Poſition of the Heavens, as to its Diurnal Revolution, or the Annual Revolution of any particular Star, whence ſuch Obſervations are to be made; but upon generals we give you our opinion in general terms, and not according to the art of directions in theſe caſes obſerved, that as the Star ſo the Ef<g ref="char:EOLhyphen"/>fects ſignified under the ſame, are of a very quick motion: Comets therefore do only foretel and threaten dangers approaching (not as Cauſes but Effects:) ſo that as the form that every thing naturally bears, as ſuch the power of any Operation in the Conſtellations is accounted efficacious, doing nothing in vain: Hence is to be con<g ref="char:EOLhyphen"/>ſidered, how Nature doth imitate God, in the ſame manner as Art doth imitate her, as well in its way of production, as to ſuch the form it bears.</p>
+            <p>And although many have endeavoured to argue Natural Cauſes for what ever comes or is brought to paſs in this lower world, we do thus far aſſent, That as God is the God of Nature, there may be and is a Natural Cauſe (on our part) for thoſe things that are thus brought to paſs by a Power and Providence that is ſupernatural; ſubjecting Nature in the way and courſe that hath a Natural Cauſe, ſecondarily moving, as well as ſupernatural, the faſt Mover, by which the Divine Being is extraordinarily acted; according to Cauſes of both relating to what-ever is thus brought about, either in an ordinary or extraordinary manner: So that not to leſſen any thing of Gods Works admirable or miraculous, do we argue Cauſes thus operating, to an end hidden from us, and beſt known unto the Orderer and Diſpoſer of the Events of all ſecondary Cauſes, that primarily doth reſpect the firſt mover.</p>
+            <p>For obſerving how induſtrious many Artiſts have been, and what pains and care they have taken to leſſen any thing miraculous, or that may be accounted admirable, (of God's works) by drawing out the minds of a People after, and into Natural Obſervations of
+<pb n="3" facs="tcp:49939:2"/>Cauſes and Reaſons (in their Opinions and Perſwaſions) for every thing that comes to paſs (here) in this lower World; and ſo by attributing the Cauſe of all thing: to what is but meerly natural, do in the ſtead of God, exalt the Power and Strength of their own corrupt Reaſon and Perſwaſions (for Judgment: (We ſay this con<g ref="char:EOLhyphen"/>ſidering, and that ſuch Appearances are but Effects of Cauſes (both natural and ſupernatural,) for whatever hath been produced in time and place, we do look on our ſelves bound to thwart and contro<g ref="char:EOLhyphen"/>vert Atheiſtical Perſwaſions thereon: And this upon mature deli<g ref="char:EOLhyphen"/>beration (in the conſideration of what is demonſtrative) we do offer, not only as our Judgment and perſwaſions of belief (relating to what is Doctrinal upon the Sphere wherein thoſe Tokens are put forth) but alſo relating to the practick part of Moral Vertues: We having ſometimes conſidered the reaſon of ſuch Appearanees, in which we are moſt apt to believe, and do verily conclude them to be a pro<g ref="char:EOLhyphen"/>digious Token of God's Diſpleaſure and Anger againſt a Nation and People; (for Cauſes of ſuch his Anger and Diſpleaſure, that do lye more inwardly hidden than that they ſhould be comprehend<g ref="char:EOLhyphen"/>ed by any Artiſt in Nature;) or otherways are underſtood than by Subjects, capable of Inſtructions from the Heavens, (according to their own proper guift, how or wherein ſuch that and thoſe Cau<g ref="char:EOLhyphen"/>ſes are ſo originarily placed) the Foundation of which Faith and Belief (in theſe Caſes) reſteth on a well-informed Judgment.</p>
+            <p>Furthermore we aſſent to their Concluſion, (in this Caſe) That the Cauſes of Form put forth (with the ſignal Token) are exhaled from the Earth; a looſe prodigious kind of Subſtance, and light Airy, volatile Matter, not ſubſtantial and ponderous, (untill fixati<g ref="char:EOLhyphen"/>on and fermentation thus made of its Operations in another Prin<g ref="char:EOLhyphen"/>ciple) but ſhadowing: This Exhalation unto ſuch fermentation and fixation of the matter and things ſo altogether ſhadowy and figurative (in prodigious Characters, and ſignal Tokens of ſuch God's Diſpleaſure and Anger) being ſo made by the Suns Vertue: And it being a Queſtion, (that is material and weighty) upon our thus enquiry into Cauſes, (for what is made demonſtrative) whe<g ref="char:EOLhyphen"/>ther the Primary Mover be that of the Macrocoſm upon the Micro<g ref="char:EOLhyphen"/>coſm, or of the Micracoſm upon the Macrocoſm? Our Anſwer thereunto deſerves as ſerious and weighty Conſiderations relating to a Concluſion point upon the whole matter; ſo that in the firſt place we deny not the Operation of that Orb or Sphere (called the <hi>primum mobile</hi>) on and over all others thereto ſubordinate; and more low placed under its Raptures; in which ſuch ſubordinate Orb hath nevertheleſs its own motion, and cauſe of motion ſo placed in a lower Orb or Sphere, and as that Orb and Sphere is moved upon its own proper Poles.</p>
+            <p>But whether <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be an External or Internal Cauſe, is the main thing queſtioned in the peoples doubts; ſo that if any thing, or all things, thus moved, are concluded to be moved according to External Cauſes, and theſe made or judged to be primary over all other Powers in Nature, then are we mankind wholly and altogether over ruled or forced to act in all that is hence from and by us brought
+<pb n="4" facs="tcp:49939:3" rendition="simple:additions"/>forth; and ſo you may upon the ſame ſcore further argue and con<g ref="char:EOLhyphen"/>clude, That God, according to Juſtice, cannot Eternally deſtroy or damn his Creature, who hath no Power in this Eſtate to reſiſt or prevent any of God's decreeings, either to Felicity or miſery: but if you conclude, as certain it is, the Cauſe of all things to be Orig<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nally placed inward Seed of Life, that is in every thing, even as the good man <hi>Moſes</hi> writeth (concerning the Herb and Fruit-tree, whoſe Seed was in it ſelf,) then the outward nature and its Bodies are to be conſidered meerly Paſſive, and but Effects only of thoſe things that have a more inward and hidden Cauſe than that it ſhould be comprehended by man-kinds Reaſon, of the dark Ima<g ref="char:EOLhyphen"/>ginations and Will, (that lets fly at every thing.)</p>
+            <p>And ſo theſe outward Heavens are but the Book of God, wherein we may ſee and read the ſignal Token of his Pleaſure or Diſpleaſure; and in which may be and is made demonſtrative (upon an intelli<g ref="char:EOLhyphen"/>gible Subject;) the Original Cauſe and root of all our Actions: And though this ſeems a Doctrine different from the Vulgar Apprehen<g ref="char:EOLhyphen"/>ſions of our Generations, (of the World) we queſtion not other<g ref="char:EOLhyphen"/>where to make out more fully the Subject of our Diſcourſe (herein treated of) by hints at the Foundation it ſelf; <hi>i. e.</hi> that we Man<g ref="char:EOLhyphen"/>kind, as we are ſet to rule the Macrocoſm, or great outward World, we had (in our Macrocoſm) under the Power of Dominion, com<g ref="char:EOLhyphen"/>mitted a Government over all other Creatures, both ſenſible and inſenſible; yea over the very Elements and Stars themſelves; which we, ſince our fall; do rather poyſon and infect, than that there was Originally placed any Poyſon or Infection in them, that is now be<g ref="char:EOLhyphen"/>come hurtful and pernicious to us, and was to become ſubject to him (ſuch their Lord) in this Dominion and Authority; we, having loſt in the firſt <hi>Adam,</hi> are to regain, in and by the power of the ſe<g ref="char:EOLhyphen"/>cond <hi>Adam;</hi> otherwiſe our Sins provoke thoſe Furies and Plagues that are ſo ready to be executed (by a ſevere hand) on us (the Of<g ref="char:EOLhyphen"/>fenders) whileſt we are Enemies to God's work of Reconciliation. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49939:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
